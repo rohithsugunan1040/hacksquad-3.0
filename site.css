@@ -93,7 +93,7 @@
         rgba(34, 8, 18, 0.4),
         rgba(6, 14, 36, 0.1)
       ),
-      url(https://thumbs.dreamstime.com/b/person-s-hand-collects-plastic-bottles-recycling-idea-environmental-conservation-171739045.jpg);
+      url(https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-070-aqua-splash.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -113,13 +113,13 @@
     text-align: center;
     width: calc(100% / 3);
     margin: 10px;
-    border: 1px solid #000;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
   }
   
   .product > .level {
     background-color: #ddd;
-    color: black;
+    color: rgb(0, 0, 0);
     padding: 21px 0;
     width: 100%;
     text-transform: uppercase;
@@ -128,7 +128,7 @@
   
   .product > h2 {
      font-size: 60px;
-    margin-top: 5px;
+    margin-top: 15px;
   }
   
   .product > ol {
